@@ -1,5 +1,5 @@
 {
-	"title": "Summary",
+	"title": "mybook",
 	"links": {
         "sidebar": {
             "Home": "https://lynnlee1229.github.io"
@@ -50,8 +50,8 @@
 			"alipay": "https://raw.githubusercontent.com/lynnlee1229/PictureBed/main/Alipay1.png",
 			"title": "",
 			"button": "Donate",
-			"alipayText": "支付宝捐赠",
-			"wechatText": "微信捐赠"
+			"alipayText": "Alipay",
+			"wechatText": "Wechat"
 		}
 		
 	},

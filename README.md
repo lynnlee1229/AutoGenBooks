@@ -1,1 +1,2 @@
 # AutoGenBooks
+[Glink](Glink.md)
