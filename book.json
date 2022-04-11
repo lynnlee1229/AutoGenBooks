@@ -1,0 +1,59 @@
+{
+	"title": "Summary",
+	"links": {
+        "sidebar": {
+            "Home": "https://lynnlee1229.github.io"
+        }
+    },
+	"author":"lynnlee1229",
+	"plugins" : [
+		"expandable-chapters",
+		"github-buttons",
+		"editlink",
+		"copy-code-button",
+		"page-footer-ex",
+		"anchor-navigation-ex",
+		"expandable-chapters-small",
+		"prism", 
+		"-highlight",
+		"-lunr", 
+		"-search", 
+		"search-pro",
+		"donate",
+		"splitter"
+	],
+	"pluginsConfig": {
+		"editlink": {
+			"base": "https://github.com/lynnlee1229/AutoGenBooks/tree/main",
+			"label": "Edit This Page"
+		},	
+		"github-buttons": {
+			"buttons": [{
+				"user": "btm1229",
+				"repo": "AutoGenBooks",
+				"type": "star",
+				"size": "small"
+			}]
+		},	
+		"page-footer-ex": {
+            "copyright": "By [Lynn Lee](https://github.com/lynnlee1229)",
+            "markdown": true,
+            "update_label": "<i>last updated</i>",
+            "update_format": "YYYY-MM-DD HH:mm:ss"
+		},	
+		"prism": {
+			"css": ["prismjs/themes/prism-solarizedlight.css"],
+			"lang": {"flow": "typescript"}
+		},	
+		"donate": {
+			"wechat": "https://raw.githubusercontent.com/lynnlee1229/PictureBed/main/wechatpay1.png",
+			"alipay": "https://raw.githubusercontent.com/lynnlee1229/PictureBed/main/Alipay1.png",
+			"title": "",
+			"button": "Donate",
+			"alipayText": "支付宝捐赠",
+			"wechatText": "微信捐赠"
+		}
+		
+	},
+	"ignores" : ["_book", "node_modules"]
+}	
