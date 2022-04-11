@@ -55,20 +55,10 @@
 		},
 		"copyright": {
 			"site": "https://github.com/lynnlee1229",
-			"author": {
-				"en": "Lynn Lee",
-				"zh": "李柞霖"
-			},
-			"website": {
-				"en": "Lynn's gitbook",
-				"zh": "李柞霖的gitbook"
-			},
-			"image": {
-				"en": "https://raw.githubusercontent.com/lynnlee1229/PictureBed/main/mywechat.png",
-				"zh": "https://raw.githubusercontent.com/lynnlee1229/PictureBed/main/mywechat.png"
-			},
-			"copyProtect": false
-		
+			"author": "Lynn Lee",
+			"website": "Lynn's gitbook",
+			"image": "https://raw.githubusercontent.com/lynnlee1229/PictureBed/main/mywechat.png",	
+			"copyProtect": true
 		}
 		
 	},
