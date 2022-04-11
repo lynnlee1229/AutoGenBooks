@@ -1,3 +1,3 @@
-A template of auto-generate gitbooks.
+A template for automatically generating gitbooks.
 
-[Glink](Glink.md)
+[testfile](testfile.md)
