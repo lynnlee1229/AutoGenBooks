@@ -2,7 +2,7 @@
 	"title": "mybook",
 	"links": {
         "sidebar": {
-            "Home": "https://lynnlee1229.github.io"
+            "HomePage": "https://lynnlee1229.github.io"
         }
     },
 	"author":"lynnlee1229",
@@ -36,7 +36,7 @@
 			}]
 		},	
 		"page-footer-ex": {
-            "copyright": "By [Lynn Lee](https://github.com/lynnlee1229)",
+            "copyright": "Copyright by [Lynn Lee](https://github.com/lynnlee1229)&Wuhan University",
             "markdown": true,
             "update_label": "<i>last updated</i>",
             "update_format": "YYYY-MM-DD HH:mm:ss"
