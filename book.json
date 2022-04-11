@@ -20,7 +20,8 @@
 		"-search", 
 		"search-pro",
 		"donate",
-		"splitter"
+		"splitter",
+		"copyright"
 	],
 	"pluginsConfig": {
 		"editlink": {
@@ -36,7 +37,6 @@
 			}]
 		},	
 		"page-footer-ex": {
-            "copyright": "Copyright by [Lynn Lee](https://github.com/lynnlee1229)&Wuhan University",
             "markdown": true,
             "update_label": "<i>last updated</i>",
             "update_format": "YYYY-MM-DD HH:mm:ss"
@@ -52,6 +52,23 @@
 			"button": "Donate",
 			"alipayText": "Alipay",
 			"wechatText": "Wechat"
+		},
+		"copyright": {
+			"site": "https://github.com/lynnlee1229",
+			"author": {
+				"en": "Lynn Lee",
+				"zh": "李柞霖"
+			},
+			"website": {
+				"en": "Lynn's gitbook",
+				"zh": "李柞霖的gitbook"
+			},
+			"image": {
+				"en": "https://raw.githubusercontent.com/lynnlee1229/PictureBed/main/mywechat.png",
+				"zh": "https://raw.githubusercontent.com/lynnlee1229/PictureBed/main/mywechat.png"
+			},
+			"copyProtect": false
+		
 		}
 		
 	},
